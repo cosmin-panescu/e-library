@@ -1,1 +1,296 @@
 @import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  background-color: #120f17;
+  color-scheme: dark;
+}
+
+body {
+  background-color: #120f17;
+  color-scheme: dark;
+}
+
+/* Animații personalizate pentru bottom-sheet / modal pe mobil */
+@keyframes slideUpModal {
+  0% {
+    transform: translateY(100%);
+    opacity: 0.6;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideDownModal {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+}
+
+@keyframes fadeInBackdrop {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOutBackdrop {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.animate-modal-slide-up {
+  animation: slideUpModal 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  will-change: transform, opacity;
+}
+
+.animate-modal-slide-down {
+  animation: slideDownModal 0.25s cubic-bezier(0.4, 0, 1, 1) forwards;
+  will-change: transform, opacity;
+}
+
+.animate-backdrop-fade-in {
+  animation: fadeInBackdrop 0.3s ease-out forwards;
+}
+
+.animate-backdrop-fade-out {
+  animation: fadeOutBackdrop 0.25s ease-in forwards;
+}
+
+/* ============================================ */
+/* BOOK CARD: 3D Tilt & Glow Hover Effects     */
+/* ============================================ */
+
+.book-tilt-card {
+  cursor: grab;
+  transition: box-shadow 0.4s ease-out;
+}
+
+.book-tilt-card:active {
+  cursor: grabbing;
+}
+
+/* Glow subtil alb la hover - calibrat să se estompeze organic fără margini tăiate */
+.group:hover .book-tilt-card {
+  box-shadow:
+    0 0 0 2px rgba(255, 255, 255, 0.22),
+    0 0 18px 3px rgba(255, 255, 255, 0.14) !important;
+  transition: box-shadow 0.35s ease-out;
+}
+
+/* Vanilla-tilt glare layer styling */
+.book-tilt-card .js-tilt-glare {
+  border-radius: 0.75rem;
+}
+
+.book-tilt-card .js-tilt-glare-inner {
+  border-radius: 0.75rem;
+}
+
+/* ================================================= */
+/* BOOK CARD: Native CSS Scroll-Driven Animation     */
+/* ================================================= */
+
+@keyframes scrollRevealFadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(44px) scale(0.93);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Nativ CSS Scroll-Driven Animation (W3C standard pe GPU / compositor) */
+@supports (animation-timeline: view()) {
+  .book-reveal-card {
+    animation: scrollRevealFadeUp cubic-bezier(0.16, 1, 0.3, 1) both;
+    animation-timeline: view();
+    /* Se întinde pe un scroll amplu (de la intrare până aproape de jumătatea ecranului) */
+    animation-range: entry 5% cover 48%;
+  }
+
+  .carousel-row-reveal {
+    animation: scrollRevealFadeUp cubic-bezier(0.16, 1, 0.3, 1) both;
+    animation-timeline: view();
+    animation-range: entry 4% cover 36%;
+  }
+}
+
+/* Fallback elegant pentru medii fără suport view() timeline */
+@supports not (animation-timeline: view()) {
+  .book-reveal-card,
+  .carousel-row-reveal {
+    animation: scrollRevealFadeUp 0.95s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+}
+
+/* ================================================= */
+/* GLOBAL & CUSTOM SCROLLBAR (Sleek, Rounded, Modern)*/
+/* ================================================= */
+
+/* Standard W3C properties pentru Firefox & browsere moderne */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
+}
+
+/* WebKit (Chrome, Safari, Edge, Opera) Global Styling */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 9999px;
+  margin: 6px; /* Oferă spațiu de respirație la colțuri rotunjite */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.18);
+  border-radius: 9999px;
+  border: 1.5px solid transparent;
+  background-clip: padding-box;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(234, 179, 8, 0.55); /* Tentă caldă aurie la hover */
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: rgba(234, 179, 8, 0.8);
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+/* Utilitar specific .custom-scrollbar pentru containere & modale cu border-radius */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.22) transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 9999px;
+  margin: 10px; /* Împiedică depășirea colțurilor rotunjite ale modalului */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.22);
+  border-radius: 9999px;
+  border: 1px solid transparent;
+  background-clip: padding-box;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(234, 179, 8, 0.6);
+}
+
+/* Variantă metalică argintie cu efect Shiny pentru benzile orizontale de cărți */
+@keyframes shinyScrollbar {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.custom-scrollbar-slim {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.22) transparent;
+}
+
+.custom-scrollbar-slim::-webkit-scrollbar {
+  width: 3.5px;
+  height: 3.5px;
+}
+
+/* Fundal complet invizibil conform cerinței */
+.custom-scrollbar-slim::-webkit-scrollbar-track {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  margin: 0;
+}
+
+/* Buton scrollbar: translucid, afundat în fundal, cu efect de shine argintiu */
+.custom-scrollbar-slim::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.05) 0%,
+    rgba(255, 255, 255, 0.16) 25%,
+    rgba(255, 255, 255, 0.4) 50%,
+    rgba(255, 255, 255, 0.16) 75%,
+    rgba(255, 255, 255, 0.05) 100%
+  );
+  background-size: 200% 100%;
+  border-radius: 9999px;
+  border: none;
+  /* Umbră interioară pentru senzația de adâncire/afundare în fundal */
+  box-shadow: inset 0 1px 1.5px rgba(0, 0, 0, 0.9), 0 0.5px 0.5px rgba(255, 255, 255, 0.06);
+  animation: shinyScrollbar 3.5s linear infinite;
+}
+
+.custom-scrollbar-slim::-webkit-scrollbar-thumb:hover,
+.custom-scrollbar-slim::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.1) 0%,
+    rgba(255, 255, 255, 0.28) 25%,
+    rgba(255, 255, 255, 0.6) 50%,
+    rgba(255, 255, 255, 0.28) 75%,
+    rgba(255, 255, 255, 0.1) 100%
+  );
+  background-size: 200% 100%;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.95), 0 0.5px 1px rgba(255, 255, 255, 0.12);
+}
+
+/* ============================================================= */
+/* Ascunde discret dock-ul de cărți când un modal este deschis  */
+/* ============================================================= */
+body.modal-open .reading-deck-widget,
+body[style*="overflow: hidden"] .reading-deck-widget {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(24px) scale(0.9) !important;
+  transition: opacity 0.25s ease, transform 0.25s ease !important;
+}
+
+/* Utilitar pentru ascunderea completă a barelor de scroll (păstrând derularea / swipe / drag) */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+
+

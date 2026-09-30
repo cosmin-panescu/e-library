@@ -1,0 +1,94 @@
+/* 3D Book Cover Carousel (Pure Alpha Fade, Zero Ray Cutoff) ====== */
+.scene, .a3d {
+  display: grid;
+}
+
+.scene {
+  position: relative;
+  overflow: hidden;
+  perspective: 35em;
+  height: 360px;
+  width: 100%;
+  place-items: center;
+  pointer-events: none;
+  
+  mask-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(0, 0, 0, 0.05) 3%,
+    rgba(0, 0, 0, 0.25) 7%,
+    rgba(0, 0, 0, 0.65) 13%,
+    rgba(0, 0, 0, 0.95) 20%,
+    #000 25%,
+    #000 75%,
+    rgba(0, 0, 0, 0.95) 80%,
+    rgba(0, 0, 0, 0.65) 87%,
+    rgba(0, 0, 0, 0.25) 93%,
+    rgba(0, 0, 0, 0.05) 97%,
+    transparent 100%
+  );
+  -webkit-mask-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(0, 0, 0, 0.05) 3%,
+    rgba(0, 0, 0, 0.25) 7%,
+    rgba(0, 0, 0, 0.65) 13%,
+    rgba(0, 0, 0, 0.95) 20%,
+    #000 25%,
+    #000 75%,
+    rgba(0, 0, 0, 0.95) 80%,
+    rgba(0, 0, 0, 0.65) 87%,
+    rgba(0, 0, 0, 0.25) 93%,
+    rgba(0, 0, 0, 0.05) 97%,
+    transparent 100%
+  );
+
+  @media (max-width: 768px) {
+    height: 260px;
+    perspective: 28em;
+  }
+
+  .a3d {
+    place-self: center;
+    transform-style: preserve-3d;
+    animation: ry 32s linear infinite;
+
+    .card {
+      --w: 13.5rem;
+      --ba: calc(360deg / var(--n));
+      grid-area: 1 / 1;
+      width: var(--w);
+      aspect-ratio: 9 / 14;
+      object-fit: cover;
+      border-radius: 1rem;
+      backface-visibility: hidden;
+      box-shadow: 0 12px 30px -4px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(255, 255, 255, 0.14);
+      user-select: none;
+      -webkit-user-drag: none;
+      pointer-events: none;
+      transform: 
+        rotateY(calc(var(--i) * var(--ba)))
+        translateZ(calc(-1 * (0.5 * var(--w) + 0.5em) * var(--cot, 4.7046)));
+
+      @media (max-width: 768px) {
+        --w: 8.5rem;
+        border-radius: 0.75rem;
+      }
+    }
+  }
+}
+
+@keyframes ry {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scene .a3d {
+    animation-duration: 128s;
+  }
+}

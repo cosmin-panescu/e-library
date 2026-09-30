@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "book-001",
+    "title": "Teologia Creației",
+    "author": [
+      "Pr. Dr. Ciprian Florin Apetrei"
+    ],
+    "originalYear": 2018,
+    "editionYear": 2018,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-001.webp"
+  },
+  {
+    "id": "book-002",
+    "title": "Viața Cuviosului Paisie Aghioritul",
+    "author": [
+      "Ieromonahul Isaac"
+    ],
+    "originalYear": 1996,
+    "editionYear": 2005,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-002.webp"
+  },
+  {
+    "id": "book-003",
+    "title": "Cuviosul Paisie Aghioritul. Mărturii ale închinătorilor",
+    "author": [
+      "Nicolae Zurnazoglu"
+    ],
+    "originalYear": 2005,
+    "editionYear": 2006,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-003.webp"
+  },
+  {
+    "id": "book-004",
+    "title": "Viața Sf. Vasile cel Mare",
+    "author": [
+      "Stelianos Papadopoulos"
+    ],
+    "originalYear": 1979,
+    "editionYear": 2018,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-004.webp"
+  },
+  {
+    "id": "book-005",
+    "title": "Scrisori din Siberia",
+    "author": [
+      "Cuviosul Selafiil"
+    ],
+    "originalYear": 2005,
+    "editionYear": 2023,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-005.webp"
+  },
+  {
+    "id": "book-006",
+    "title": "Vă iubesc și mă rog pentru toți",
+    "author": [
+      "Sf. Porfirie Kavsokalyvitul"
+    ],
+    "originalYear": 1990,
+    "editionYear": 2021,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-006.webp"
+  },
+  {
+    "id": "book-007",
+    "title": "Când voi pleca voi fi mai aproape de voi",
+    "author": [
+      "Sf. Porfirie Kavsokalyvitul"
+    ],
+    "originalYear": 1980,
+    "editionYear": 2019,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-007.webp"
+  },
+  {
+    "id": "book-008",
+    "title": "O să vă spun…",
+    "author": [
+      "Sf. Porfirie Kavsokalyvitul"
+    ],
+    "originalYear": 1980,
+    "editionYear": 2016,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-008.webp"
+  },
+  {
+    "id": "book-009",
+    "title": "Războiul nevăzut",
+    "author": [
+      "Sf. Nicodim Aghioritul"
+    ],
+    "originalYear": 1796,
+    "editionYear": 2023,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-009.webp"
+  },
+  {
+    "id": "book-010",
+    "title": "O muscă în Sfântul Munte",
+    "author": [
+      "Vasilis G. Frangopulos"
+    ],
+    "originalYear": 2018,
+    "editionYear": 2020,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-010.webp"
+  },
+  {
+    "id": "book-011",
+    "title": "Leneșul și călugăria",
+    "author": [
+      "Vasilis G. Frangopulos"
+    ],
+    "originalYear": 2024,
+    "editionYear": 2024,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-011.webp"
+  },
+  {
+    "id": "book-012",
+    "title": "Pelerinul rus",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 1884,
+    "editionYear": 2025,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-012.webp"
+  },
+  {
+    "id": "book-013",
+    "title": "7 dimineți cu Părintele Stăniloae",
+    "author": [
+      "Sorin Dumitrescu"
+    ],
+    "originalYear": 1992,
+    "editionYear": 2025,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-013.webp"
+  },
+  {
+    "id": "book-014",
+    "title": "Ne vorbește părintele Cleopa 1",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1995,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-014.webp"
+  },
+  {
+    "id": "book-015",
+    "title": "Ne vorbește părintele Cleopa 2",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1995,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-015.webp"
+  },
+  {
+    "id": "book-016",
+    "title": "Ne vorbește părintele Cleopa 3",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1996,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-016.webp"
+  },
+  {
+    "id": "book-017",
+    "title": "Ne vorbește părintele Cleopa 4",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1996,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-017.webp"
+  },
+  {
+    "id": "book-018",
+    "title": "Ne vorbește părintele Cleopa 5",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1996,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-018.webp"
+  },
+  {
+    "id": "book-019",
+    "title": "Ne vorbește părintele Cleopa 6",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1998,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-019.webp"
+  },
+  {
+    "id": "book-020",
+    "title": "Ne vorbește părintele Cleopa 7",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1998,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-020.webp"
+  },
+  {
+    "id": "book-021",
+    "title": "Ne vorbește părintele Cleopa 8",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1999,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-021.webp"
+  },
+  {
+    "id": "book-022",
+    "title": "Ne vorbește părintele Cleopa 9",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1998,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-022.webp"
+  },
+  {
+    "id": "book-023",
+    "title": "Ne vorbește părintele Cleopa 10",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2000,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-023.webp"
+  },
+  {
+    "id": "book-024",
+    "title": "Ne vorbește părintele Cleopa 11",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2001,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-024.webp"
+  },
+  {
+    "id": "book-025",
+    "title": "Ne vorbește părintele Cleopa 12",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2002,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-025.webp"
+  },
+  {
+    "id": "book-026",
+    "title": "Ne vorbește părintele Cleopa 13",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2003,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-026.webp"
+  },
+  {
+    "id": "book-027",
+    "title": "Ne vorbește părintele Cleopa 14",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2004,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-027.webp"
+  },
+  {
+    "id": "book-028",
+    "title": "Ne vorbește părintele Cleopa 15",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2006,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-028.webp"
+  },
+  {
+    "id": "book-029",
+    "title": "Ne vorbește părintele Cleopa 16",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2007,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-029.webp"
+  },
+  {
+    "id": "book-030",
+    "title": "Ne vorbește părintele Cleopa 17",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2010,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-030.webp"
+  },
+  {
+    "id": "book-031",
+    "title": "Ne vorbește părintele Cleopa 18",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2012,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-031.webp"
+  },
+  {
+    "id": "book-032",
+    "title": "Ne vorbește părintele Cleopa 19",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 2015,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-032.webp"
+  },
+  {
+    "id": "book-033",
+    "title": "Cuvinte duhovnicești. Nevoință duhovnicească III",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 2001,
+    "editionYear": 2022,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-033.webp"
+  },
+  {
+    "id": "book-034",
+    "title": "Cuvinte duhovnicești. Despre rugăciune VI",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 2002,
+    "editionYear": 2022,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-034.webp"
+  },
+  {
+    "id": "book-035",
+    "title": "Cuvinte duhovnicești. Viața de familie IV",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 2006,
+    "editionYear": 2022,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-035.webp"
+  },
+  {
+    "id": "book-036",
+    "title": "Cuvinte duhovnicești. Patimi și virtuți V",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 2012,
+    "editionYear": 2022,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-036.webp"
+  },
+  {
+    "id": "book-037",
+    "title": "Sfârșitul veacurilor pe înțelesul tuturor",
+    "author": [
+      "Sf. Mucenic Ermoghen"
+    ],
+    "originalYear": 1917,
+    "editionYear": 2025,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-037.webp"
+  },
+  {
+    "id": "book-038",
+    "title": "Duhovnicii din Grădina Maicii Domnului",
+    "author": [
+      "Arhimandrit Heruvim Karambelas"
+    ],
+    "originalYear": 2004,
+    "editionYear": 2024,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-038.webp"
+  },
+  {
+    "id": "book-039",
+    "title": "Taina suferinței",
+    "author": [
+      "Arhim. Simeon Kraiopoulos"
+    ],
+    "originalYear": 2002,
+    "editionYear": 2007,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-039.webp"
+  },
+  {
+    "id": "book-040",
+    "title": "Scara",
+    "author": [
+      "Sf. Ioan Scărarul"
+    ],
+    "originalYear": 630,
+    "editionYear": 2015,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-040.webp"
+  },
+  {
+    "id": "book-041",
+    "title": "Cum să luptăm cu diavolul",
+    "author": [
+      "Sf. Paisie Aghioritul"
+    ],
+    "originalYear": 2018,
+    "editionYear": 2019,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-041.webp"
+  },
+  {
+    "id": "book-042",
+    "title": "Minunile Sf. Brâu al Maicii Domnului vol. 1",
+    "author": [
+      "Mănăstirea Vatoped"
+    ],
+    "originalYear": 2007,
+    "editionYear": 2025,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-042.webp"
+  },
+  {
+    "id": "book-043",
+    "title": "O noapte în pustia Sf. Munte",
+    "author": [
+      "Ierotheos Mitropolitul Nafpaktosului"
+    ],
+    "originalYear": 1978,
+    "editionYear": 2019,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-043.webp"
+  },
+  {
+    "id": "book-044",
+    "title": "Povestiri din copilăria tatălui meu și din viața mamei Florea",
+    "author": [
+      "Vasile Marcu"
+    ],
+    "originalYear": 2001,
+    "editionYear": 2002,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-044.webp"
+  },
+  {
+    "id": "book-045",
+    "title": "Sfintele icoane făcătoare de minuni din România",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1999,
+    "editionYear": 1999,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-045.webp"
+  },
+  {
+    "id": "book-046",
+    "title": "Nu judeca și nu vei fi judecat. Cea mai scurtă cale către rai",
+    "author": [
+      "Arhimandrit Serafim Alexiev"
+    ],
+    "originalYear": 1993,
+    "editionYear": 2007,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-046.webp"
+  },
+  {
+    "id": "book-047",
+    "title": "Mărturii din Țara Făgărașului despre părintele Arsenie Boca",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 2004,
+    "editionYear": 2004,
+    "category": [
+      "Biografie",
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-047.webp"
+  },
+  {
+    "id": "book-048",
+    "title": "Îndreptar",
+    "author": [
+      "Nicodim Măndiță"
+    ],
+    "originalYear": 1940,
+    "editionYear": 2001,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-048.webp"
+  },
+  {
+    "id": "book-049",
+    "title": "La apusul libertății",
+    "author": [
+      "Ieromonah Hristodul Aghioritul"
+    ],
+    "originalYear": 1997,
+    "editionYear": 2006,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-049.webp"
+  },
+  {
+    "id": "book-050",
+    "title": "Viețile sfinților",
+    "author": [
+      "Al. Lascarov-Moldovanu"
+    ],
+    "originalYear": 1934,
+    "editionYear": 1992,
+    "category": [
+      "Biografie",
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-050.webp"
+  },
+  {
+    "id": "book-051",
+    "title": "Alte mărturii despre părintele Arsenie Boca",
+    "author": [
+      "Mitropolia Ardealului"
+    ],
+    "originalYear": 2008,
+    "editionYear": 2008,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-051.webp"
+  },
+  {
+    "id": "book-052",
+    "title": "Epistole",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 1994,
+    "editionYear": 2005,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-052.webp"
+  },
+  {
+    "id": "book-053",
+    "title": "Taina Sfintei Spovedanii",
+    "author": [
+      "Ieromonahul Sava Aghioritul"
+    ],
+    "originalYear": 2011,
+    "editionYear": 2016,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-053.webp"
+  },
+  {
+    "id": "book-054",
+    "title": "Ghidul creștinului ortodox de azi",
+    "author": [
+      "Pr. Vasile Răducă"
+    ],
+    "originalYear": 1998,
+    "editionYear": 1998,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-054.webp"
+  },
+  {
+    "id": "book-055",
+    "title": "Sf. Nectarie. Vindecări minunate",
+    "author": [
+      "Danion Vasile"
+    ],
+    "originalYear": 2011,
+    "editionYear": 2011,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-055.webp"
+  },
+  {
+    "id": "book-056",
+    "title": "Cât de mare este dragostea lui Dumnezeu pentru oameni?",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 2007,
+    "editionYear": 2007,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-056.webp"
+  },
+  {
+    "id": "book-057",
+    "title": "Sfântul călător. Viața și minunile sfântului Spiridon",
+    "author": [
+      "A. Pascu"
+    ],
+    "originalYear": 2016,
+    "editionYear": 2016,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-057.webp"
+  },
+  {
+    "id": "book-058",
+    "title": "Moșul Gheorghe Lazăr. Un sfânt al zilelor noastre",
+    "author": [
+      "Arhimandrit Ioanichie Bălan"
+    ],
+    "originalYear": 1993,
+    "editionYear": 2010,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-058.webp"
+  },
+  {
+    "id": "book-059",
+    "title": "Vorbele pot răni. Cum să nu greșim prin cuvânt",
+    "author": [
+      "Arhimandrit Vasilios Bacoianis"
+    ],
+    "originalYear": 2003,
+    "editionYear": 2013,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-059.webp"
+  },
+  {
+    "id": "book-060",
+    "title": "Darurile rugăciunii",
+    "author": [
+      "Arhimandrit Serafim Alexiev"
+    ],
+    "originalYear": 1993,
+    "editionYear": 2016,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-060.webp"
+  },
+  {
+    "id": "book-061",
+    "title": "Sfântul Arsenie Capadocianul",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 1979,
+    "editionYear": 2006,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-061.webp"
+  },
+  {
+    "id": "book-062",
+    "title": "Mica filocalie",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 2001,
+    "editionYear": 2009,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-062.webp"
+  },
+  {
+    "id": "book-063",
+    "title": "Dicționar de nume",
+    "author": [
+      "Tatiana Petrache"
+    ],
+    "originalYear": 2016,
+    "editionYear": 2020,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-063.webp"
+  },
+  {
+    "id": "book-064",
+    "title": "Starețul Hagi-Gheorghe Athonitul",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 1986,
+    "editionYear": 2006,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-064.webp"
+  },
+  {
+    "id": "book-065",
+    "title": "Un sfânt printre noi. Părintele martir Constantin Sârbu",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 2024,
+    "editionYear": 2024,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-065.webp"
+  },
+  {
+    "id": "book-066",
+    "title": "Ghidul așezămintelor monahale ortodoxe din România",
+    "author": [
+      "Mihai Vlasie"
+    ],
+    "originalYear": 1992,
+    "editionYear": 2007,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-066.webp"
+  },
+  {
+    "id": "book-067",
+    "title": "Ultimele zile ale lui Iisus pe pământ",
+    "author": [
+      "Nicoleta Petcu"
+    ],
+    "originalYear": 2019,
+    "editionYear": 2019,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-067.webp"
+  },
+  {
+    "id": "book-068",
+    "title": "Părintele Ilie Lăcătușu, grabnic-ajutătorul",
+    "author": [
+      "Antoaneta Radoi"
+    ],
+    "originalYear": 2014,
+    "editionYear": 2014,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-068.webp"
+  },
+  {
+    "id": "book-069",
+    "title": "Ne vorbește Părintele Serafim Rose. Scrisori",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 2001,
+    "editionYear": 2014,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-069.webp"
+  },
+  {
+    "id": "book-070",
+    "title": "Paisie Aghioritul, sfântul de lângă noi",
+    "author": [
+      "P.M. Sotirhos"
+    ],
+    "originalYear": 2009,
+    "editionYear": 2024,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-070.webp"
+  },
+  {
+    "id": "book-071",
+    "title": "Bucuriile suferinței. Viața unui preot martir",
+    "author": [
+      "Pr. Dimitrie Bejan"
+    ],
+    "originalYear": 1995,
+    "editionYear": 2010,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-071.webp"
+  },
+  {
+    "id": "book-072",
+    "title": "Stâlp de foc de la pământ la cer",
+    "author": [
+      "Sfântul Serafim din Sarov"
+    ],
+    "originalYear": 1833,
+    "editionYear": 2025,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-072.webp"
+  },
+  {
+    "id": "book-073",
+    "title": "Ce se întâmplă cu sufletul din ceasul morții până în ziua a 40-a",
+    "author": [
+      "Arhimandrit Serafim Alexiev"
+    ],
+    "originalYear": 1992,
+    "editionYear": 2012,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-073.webp"
+  },
+  {
+    "id": "book-074",
+    "title": "Tâlcuiri la parabolele Mântuitorului. Învățături de folos pentru toate zilele",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 1962,
+    "editionYear": 2022,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-074.webp"
+  },
+  {
+    "id": "book-075",
+    "title": "Catehismul creștinului ortodox. Calea spre Dumnezeu",
+    "author": [
+      "Mitropolitul Irineu Mihălcescu"
+    ],
+    "originalYear": 1942,
+    "editionYear": 2023,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-075.webp"
+  },
+  {
+    "id": "book-076",
+    "title": "Pelerin în Sf. Munte Athos. Sfânta Mare Mănăstire Vatopedi",
+    "author": [
+      "Ierod. Cleopa Paraschiv"
+    ],
+    "originalYear": 2005,
+    "editionYear": 2005,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-076.webp"
+  },
+  {
+    "id": "book-077",
+    "title": "Ne vorbește părintele Augustin. Mitropolitul de 103 ani",
+    "author": [
+      "Pr. Augustin Kandiotis"
+    ],
+    "originalYear": 1965,
+    "editionYear": 2010,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-077.webp"
+  },
+  {
+    "id": "book-078",
+    "title": "1000 de întrebări și răspunsuri despre viața duhovnicească",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 2005,
+    "editionYear": 2005,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-078.webp"
+  },
+  {
+    "id": "book-079",
+    "title": "Viața Sf. Apostol Andrei, între realitate și poveste",
+    "author": [
+      "A. Pascu"
+    ],
+    "originalYear": 2015,
+    "editionYear": 2015,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-079.webp"
+  },
+  {
+    "id": "book-080",
+    "title": "Noile minuni ale Sf. Ioan Rusu",
+    "author": [
+      "Pr. Ioan Vernezos",
+      "Pr. Gheorghe Nicolae"
+    ],
+    "originalYear": 2007,
+    "editionYear": 2011,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-080.webp"
+  },
+  {
+    "id": "book-081",
+    "title": "Sfânta Xenia, mângâietoarea sufletelor. Minuni petrecute în România",
+    "author": [
+      "Marius-Lucian Măgureanu"
+    ],
+    "originalYear": 2023,
+    "editionYear": 2023,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-081.webp"
+  },
+  {
+    "id": "book-082",
+    "title": "Suferințele și biruințele Catedralei de la Curtea de Argeș",
+    "author": [
+      "Arhiepiscop Calinic Argeșeanul"
+    ],
+    "originalYear": 2017,
+    "editionYear": 2017,
+    "category": [
+      "Religie",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-082.webp"
+  },
+  {
+    "id": "book-083",
+    "title": "Patericul Atonit",
+    "author": [
+      "Arhimandrit Ioannikios"
+    ],
+    "originalYear": 1991,
+    "editionYear": 2000,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-083.webp"
+  },
+  {
+    "id": "book-084",
+    "title": "Figuri bizantine I",
+    "author": [
+      "Charles Diehl"
+    ],
+    "originalYear": 1906,
+    "editionYear": 1969,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-084.webp"
+  },
+  {
+    "id": "book-085",
+    "title": "Figuri bizantine II",
+    "author": [
+      "Charles Diehl"
+    ],
+    "originalYear": 1908,
+    "editionYear": 1969,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-085.webp"
+  },
+  {
+    "id": "book-086",
+    "title": "Pocăință și spovedanie",
+    "author": [
+      "Ieromonah Grigorie"
+    ],
+    "originalYear": 2004,
+    "editionYear": 2019,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-086.webp"
+  },
+  {
+    "id": "book-087",
+    "title": "Curtea de Argeș",
+    "author": [
+      "Neagoe Manole"
+    ],
+    "originalYear": 1967,
+    "editionYear": 1967,
+    "category": [
+      "Religie",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-087.webp"
+  },
+  {
+    "id": "book-088",
+    "title": "Semnele vremurilor din urmă",
+    "author": [
+      "Sf. Cuv. Paisie Aghioritul"
+    ],
+    "originalYear": 1987,
+    "editionYear": 2013,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-088.webp"
+  },
+  {
+    "id": "book-089",
+    "title": "Rândunica din Ghebăcea sau Copia Maicii Domnului",
+    "author": [
+      "Vasile Marcu"
+    ],
+    "originalYear": 2005,
+    "editionYear": 2005,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-089.webp"
+  },
+  {
+    "id": "book-090",
+    "title": "Viața lui Ștefan cel Mare",
+    "author": [
+      "Mihail Sadoveanu"
+    ],
+    "originalYear": 1934,
+    "editionYear": 1982,
+    "category": [
+      "Istorie",
+      "Biografie",
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-090.webp"
+  },
+  {
+    "id": "book-091",
+    "title": "Chipuri din istoria Bizanțului",
+    "author": [
+      "Nicolae Bănescu"
+    ],
+    "originalYear": 1927,
+    "editionYear": 1971,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-091.webp"
+  },
+  {
+    "id": "book-092",
+    "title": "Sfârșit de veac în București",
+    "author": [
+      "Ion Marin Sadoveanu"
+    ],
+    "originalYear": 1944,
+    "editionYear": 1987,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-092.webp"
+  },
+  {
+    "id": "book-093",
+    "title": "Bucătăria ortodoxă",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 2022,
+    "editionYear": 2022,
+    "category": [
+      "Religie",
+      "Gastronomie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-093.webp"
+  },
+  {
+    "id": "book-094",
+    "title": "Misiune în Țara Soarelui Răsare",
+    "author": [
+      "Mitică Detot"
+    ],
+    "originalYear": 1992,
+    "editionYear": 1992,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-094.webp"
+  },
+  {
+    "id": "book-095",
+    "title": "Învățăturile lui Neagoe Basarab către fiul său Teodosie",
+    "author": [
+      "Sf. Neagoe Basarab"
+    ],
+    "originalYear": 1521,
+    "editionYear": 2016,
+    "category": [
+      "Istorie",
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-095.webp"
+  },
+  {
+    "id": "book-096",
+    "title": "Manuscrisele eseniene de la Marea Moartă",
+    "author": [
+      "Athanase Negoiță"
+    ],
+    "originalYear": 1993,
+    "editionYear": 1993,
+    "category": [
+      "Istorie",
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-096.webp"
+  },
+  {
+    "id": "book-097",
+    "title": "Românii supt Mihai-Voievod Viteazul",
+    "author": [
+      "Nicolae Bălcescu"
+    ],
+    "originalYear": 1849,
+    "editionYear": 1984,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-097.webp"
+  },
+  {
+    "id": "book-098",
+    "title": "Dumnezeu după Einstein",
+    "author": [
+      "John F. Haught"
+    ],
+    "originalYear": 2022,
+    "editionYear": 2022,
+    "category": [
+      "Religie",
+      "Știință"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-098.webp"
+  },
+  {
+    "id": "book-099",
+    "title": "10 ani cu mitropolitul meu Bartolomeu Anania",
+    "author": [
+      "Episcop Macarie Drăgoi"
+    ],
+    "originalYear": 2008,
+    "editionYear": 2021,
+    "category": [
+      "Biografie",
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-099.webp"
+  },
+  {
+    "id": "book-100",
+    "title": "Sfântul Munte Athos",
+    "author": [
+      "Veaceaslav Prisacarul"
+    ],
+    "originalYear": 2018,
+    "editionYear": 2023,
+    "category": [
+      "Religie",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-100.webp"
+  },
+  {
+    "id": "book-101",
+    "title": "Martiriu și memorie din România Comunistă",
+    "author": [
+      "Radu Preda",
+      "Ion Vicovan"
+    ],
+    "originalYear": 2017,
+    "editionYear": 2020,
+    "category": [
+      "Istorie",
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-101.webp"
+  },
+  {
+    "id": "book-102",
+    "title": "Icoana Sufletului Nostru",
+    "author": [
+      "Pavel Balan"
+    ],
+    "originalYear": 1992,
+    "editionYear": 1992,
+    "category": [
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-102.webp"
+  },
+  {
+    "id": "book-103",
+    "title": "Jurnalul fericirii",
+    "author": [
+      "Nicolae Steinhardt"
+    ],
+    "originalYear": 1971,
+    "editionYear": 1992,
+    "category": [
+      "Istorie",
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-103.webp"
+  },
+  {
+    "id": "book-104",
+    "title": "Cel mai bogat om din Babilon",
+    "author": [
+      "George S. Clason"
+    ],
+    "originalYear": 1926,
+    "editionYear": 2004,
+    "category": [
+      "Educație financiară",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-104.webp"
+  },
+  {
+    "id": "book-105",
+    "title": "Maica vieții. Învățătura ortodoxă despre Maica Domnului",
+    "author": [
+      "Mary B. Cunningham"
+    ],
+    "originalYear": 2015,
+    "editionYear": 2017,
+    "category": [
+      "Religie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-105.webp"
+  },
+  {
+    "id": "book-106",
+    "title": "Descoperiți minunile lumii",
+    "author": [
+      "Reader's Digest"
+    ],
+    "originalYear": 1998,
+    "editionYear": 1998,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-106.webp"
+  },
+  {
+    "id": "book-107",
+    "title": "Istoria României",
+    "author": [
+      "Miron Constantinescu"
+    ],
+    "originalYear": 1969,
+    "editionYear": 1971,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-107.webp"
+  },
+  {
+    "id": "book-108",
+    "title": "Lumi dispărute",
+    "author": [
+      "Anne Terry White"
+    ],
+    "originalYear": 1941,
+    "editionYear": 1968,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-108.webp"
+  },
+  {
+    "id": "book-109",
+    "title": "Făgărașul",
+    "author": [
+      "Ovidiu Mănițiu"
+    ],
+    "originalYear": 1963,
+    "editionYear": 1963,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-109.webp"
+  },
+  {
+    "id": "book-110",
+    "title": "Poezii în Familia",
+    "author": [
+      "Mihai Eminescu"
+    ],
+    "originalYear": 1866,
+    "editionYear": 1992,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-110.webp"
+  },
+  {
+    "id": "book-111",
+    "title": "Opere, poezii I",
+    "author": [
+      "Al. Macedonski"
+    ],
+    "originalYear": 1872,
+    "editionYear": 1966,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-111.webp"
+  },
+  {
+    "id": "book-112",
+    "title": "Delta Dunării",
+    "author": [
+      "Eugen Panighiant"
+    ],
+    "originalYear": 1982,
+    "editionYear": 1982,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-112.webp"
+  },
+  {
+    "id": "book-113",
+    "title": "Drumuri la Mănăstiri Moldave",
+    "author": [
+      "Marcel Drăgotescu"
+    ],
+    "originalYear": 1992,
+    "editionYear": 1992,
+    "category": [
+      "Geografie",
+      "Religie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-113.webp"
+  },
+  {
+    "id": "book-114",
+    "title": "Munții Semenic. Ghid turistic",
+    "author": [
+      "Mihai Grigore"
+    ],
+    "originalYear": 1981,
+    "editionYear": 1981,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-114.webp"
+  },
+  {
+    "id": "book-115",
+    "title": "Masivul Ciucaș",
+    "author": [
+      "Rodica Maria Niculescu"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1977,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-115.webp"
+  },
+  {
+    "id": "book-116",
+    "title": "Munții Făgăraș",
+    "author": [
+      "Valentin Bălăceanu"
+    ],
+    "originalYear": 1974,
+    "editionYear": 1974,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-116.webp"
+  },
+  {
+    "id": "book-117",
+    "title": "Munții Buzăului",
+    "author": [
+      "Gr. Posea",
+      "M. Ielenicz"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1977,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-117.webp"
+  },
+  {
+    "id": "book-118",
+    "title": "Munții Rodnei",
+    "author": [
+      "Iuliu Buta",
+      "Ana Aurelia Buta"
+    ],
+    "originalYear": 1979,
+    "editionYear": 1979,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-118.webp"
+  },
+  {
+    "id": "book-119",
+    "title": "Munții Capățânii",
+    "author": [
+      "Nae Popescu"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1977,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-119.webp"
+  },
+  {
+    "id": "book-120",
+    "title": "Munții Postăvaru",
+    "author": [
+      "Dan Bălteanu",
+      "Nicolae Bacaintan"
+    ],
+    "originalYear": 1980,
+    "editionYear": 1980,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-120.webp"
+  },
+  {
+    "id": "book-121",
+    "title": "Munții Gutîi",
+    "author": [
+      "Dumitru Istvan"
+    ],
+    "originalYear": 1990,
+    "editionYear": 1990,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-121.webp"
+  },
+  {
+    "id": "book-122",
+    "title": "Dincolo de frontiere",
+    "author": [
+      "Pavel Coruț"
+    ],
+    "originalYear": 1993,
+    "editionYear": 1993,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-122.webp"
+  },
+  {
+    "id": "book-123",
+    "title": "Curtea domnească din Târgoviște",
+    "author": [
+      "N. Constantinescu",
+      "Cristian Moisescu"
+    ],
+    "originalYear": 1965,
+    "editionYear": 1965,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-123.webp"
+  },
+  {
+    "id": "book-124",
+    "title": "Memorial de război",
+    "author": [
+      "General Traian Moșoiu"
+    ],
+    "originalYear": 1916,
+    "editionYear": 1987,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-124.webp"
+  }
+]
