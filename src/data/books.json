@@ -8,7 +8,7 @@
     "originalYear": 2018,
     "editionYear": 2018,
     "category": [
-      "Religie"
+      "Teologie"
     ],
     "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-001.webp"
   },
@@ -21,7 +21,7 @@
     "originalYear": 1996,
     "editionYear": 2005,
     "category": [
-      "Religie",
+      "Teologie",
       "Biografie"
     ],
     "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-002.webp"
@@ -35,7 +35,7 @@
     "originalYear": 2005,
     "editionYear": 2006,
     "category": [
-      "Religie",
+      "Teologie",
       "Biografie"
     ],
     "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-003.webp"
@@ -49,7 +49,7 @@
     "originalYear": 1979,
     "editionYear": 2018,
     "category": [
-      "Religie",
+      "Teologie",
       "Biografie"
     ],
     "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-004.webp"
@@ -63,7 +63,7 @@
     "originalYear": 2005,
     "editionYear": 2023,
     "category": [
-      "Religie"
+      "Teologie"
     ],
     "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-005.webp"
   },
@@ -76,7 +76,7 @@
     "originalYear": 1990,
     "editionYear": 2021,
     "category": [
-      "Religie"
+      "Teologie"
     ],
     "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-006.webp"
   },
@@ -89,7 +89,7 @@
     "originalYear": 1980,
     "editionYear": 2019,
     "category": [
-      "Religie"
+      "Teologie"
     ],
     "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/1/book-007.webp"
   },
@@ -1252,7 +1252,7 @@
     "id": "book-095",
     "title": "Învățăturile lui Neagoe Basarab către fiul său Teodosie",
     "author": [
-      "Sf. Neagoe Basarab"
+      "Autor necunoscut"
     ],
     "originalYear": 1521,
     "editionYear": 2016,
@@ -1653,5 +1653,2048 @@
       "Istorie"
     ],
     "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-124.webp"
+  },
+  {
+    "id": "book-125",
+    "title": "Nuvele I",
+    "author": [
+      "Ioan Slavici"
+    ],
+    "originalYear": 1873,
+    "editionYear": 1958,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-125.webp"
+  },
+  {
+    "id": "book-126",
+    "title": "Nuvele II",
+    "author": [
+      "Ioan Slavici"
+    ],
+    "originalYear": 1896,
+    "editionYear": 1958,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-126.webp"
+  },
+  {
+    "id": "book-127",
+    "title": "Poezii",
+    "author": [
+      "A. Vlahuță"
+    ],
+    "originalYear": 1880,
+    "editionYear": 1959,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-127.webp"
+  },
+  {
+    "id": "book-128",
+    "title": "Poezii și proză",
+    "author": [
+      "D. Anghel"
+    ],
+    "originalYear": 1903,
+    "editionYear": 1957,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-128.webp"
+  },
+  {
+    "id": "book-129",
+    "title": "Opere",
+    "author": [
+      "G. Topârceanu"
+    ],
+    "originalYear": 1910,
+    "editionYear": 1955,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-129.webp"
+  },
+  {
+    "id": "book-130",
+    "title": "Nopți înfrigurate",
+    "author": [
+      "Aurel Mihale"
+    ],
+    "originalYear": 1959,
+    "editionYear": 1962,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-130.webp"
+  },
+  {
+    "id": "book-131",
+    "title": "Baltagul",
+    "author": [
+      "M. Sadoveanu"
+    ],
+    "originalYear": 1930,
+    "editionYear": 1963,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-131.webp"
+  },
+  {
+    "id": "book-132",
+    "title": "Chirița în Iași sau Două fete ș-o neneacă",
+    "author": [
+      "Vasile Alecsandri"
+    ],
+    "originalYear": 1850,
+    "editionYear": 1961,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-132.webp"
+  },
+  {
+    "id": "book-133",
+    "title": "Moartea căprioarei",
+    "author": [
+      "Nicolae Labiș"
+    ],
+    "originalYear": 1954,
+    "editionYear": 1964,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-133.webp"
+  },
+  {
+    "id": "book-134",
+    "title": "Alegere de stareță",
+    "author": [
+      "Damian Stănoiu"
+    ],
+    "originalYear": 1932,
+    "editionYear": 1964,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-134.webp"
+  },
+  {
+    "id": "book-135",
+    "title": "Costandina",
+    "author": [
+      "Zaharia Stancu"
+    ],
+    "originalYear": 1960,
+    "editionYear": 1962,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-135.webp"
+  },
+  {
+    "id": "book-136",
+    "title": "Nucul lui Odobac",
+    "author": [
+      "Emil Gârleanu"
+    ],
+    "originalYear": 1910,
+    "editionYear": 1964,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-136.webp"
+  },
+  {
+    "id": "book-137",
+    "title": "Orașe și ani I",
+    "author": [
+      "Konstantin Fedin"
+    ],
+    "originalYear": 1924,
+    "editionYear": 1962,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-137.webp"
+  },
+  {
+    "id": "book-138",
+    "title": "Orașe și ani II",
+    "author": [
+      "Konstantin Fedin"
+    ],
+    "originalYear": 1924,
+    "editionYear": 1962,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-138.webp"
+  },
+  {
+    "id": "book-139",
+    "title": "Păpușa I",
+    "author": [
+      "Boleslaw Prus"
+    ],
+    "originalYear": 1887,
+    "editionYear": 1963,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-139.webp"
+  },
+  {
+    "id": "book-140",
+    "title": "Păpușa II",
+    "author": [
+      "Boleslaw Prus"
+    ],
+    "originalYear": 1888,
+    "editionYear": 1963,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-140.webp"
+  },
+  {
+    "id": "book-141",
+    "title": "Păpușa III",
+    "author": [
+      "Boleslaw Prus"
+    ],
+    "originalYear": 1889,
+    "editionYear": 1963,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-141.webp"
+  },
+  {
+    "id": "book-142",
+    "title": "Crimă și pedeapsă I",
+    "author": [
+      "F. M. Dostoievski"
+    ],
+    "originalYear": 1866,
+    "editionYear": 1962,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-142.webp"
+  },
+  {
+    "id": "book-143",
+    "title": "Crimă și pedeapsă II",
+    "author": [
+      "F. M. Dostoievski"
+    ],
+    "originalYear": 1866,
+    "editionYear": 1962,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-143.webp"
+  },
+  {
+    "id": "book-144",
+    "title": "Cei trei mușchetari I",
+    "author": [
+      "Al. Dumas"
+    ],
+    "originalYear": 1844,
+    "editionYear": 1964,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-144.webp"
+  },
+  {
+    "id": "book-145",
+    "title": "Cei trei mușchetari II",
+    "author": [
+      "Al. Dumas"
+    ],
+    "originalYear": 1844,
+    "editionYear": 1964,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-145.webp"
+  },
+  {
+    "id": "book-146",
+    "title": "Timpul n-a mai avut răbdare",
+    "author": [
+      "Marin Preda"
+    ],
+    "originalYear": 1981,
+    "editionYear": 1981,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-146.webp"
+  },
+  {
+    "id": "book-147",
+    "title": "Lăsați cuvintele să vină la mine",
+    "author": [
+      "Sütő András"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1979,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-147.webp"
+  },
+  {
+    "id": "book-148",
+    "title": "Cu Magellan în jurul lumii",
+    "author": [
+      "A. Pigafetta"
+    ],
+    "originalYear": 1524,
+    "editionYear": 1962,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-148.webp"
+  },
+  {
+    "id": "book-149",
+    "title": "Aceste zile și aceste nopți",
+    "author": [
+      "Teodor Mazilu"
+    ],
+    "originalYear": 1962,
+    "editionYear": 1962,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-149.webp"
+  },
+  {
+    "id": "book-150",
+    "title": "În munții Neamțului",
+    "author": [
+      "Calistrat Hogaș"
+    ],
+    "originalYear": 1882,
+    "editionYear": 1958,
+    "category": [
+      "Beletristică",
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-150.webp"
+  },
+  {
+    "id": "book-151",
+    "title": "Agenția de publicitate a domnului Kocek",
+    "author": [
+      "V. Tevekelian"
+    ],
+    "originalYear": 1967,
+    "editionYear": 1975,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-151.webp"
+  },
+  {
+    "id": "book-152",
+    "title": "În vacanță",
+    "author": [
+      "I. A. Bassarabescu"
+    ],
+    "originalYear": 1906,
+    "editionYear": 1968,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-152.webp"
+  },
+  {
+    "id": "book-153",
+    "title": "Floare și genune",
+    "author": [
+      "P. Cerna"
+    ],
+    "originalYear": 1910,
+    "editionYear": 1968,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-153.webp"
+  },
+  {
+    "id": "book-154",
+    "title": "Texte comentate",
+    "author": [
+      "Adriana Mitescu"
+    ],
+    "originalYear": 1974,
+    "editionYear": 1976,
+    "category": [
+      "Poezie",
+      "Altele"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-154.webp"
+  },
+  {
+    "id": "book-155",
+    "title": "Scene istorice",
+    "author": [
+      "A. I. Odobescu"
+    ],
+    "originalYear": 1857,
+    "editionYear": 1977,
+    "category": [
+      "Beletristică",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-155.webp"
+  },
+  {
+    "id": "book-156",
+    "title": "Galaxia Gutenberg",
+    "author": [
+      "Marshall McLuhan"
+    ],
+    "originalYear": 1961,
+    "editionYear": 1975,
+    "category": [
+      "Filosofie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-156.webp"
+  },
+  {
+    "id": "book-157",
+    "title": "Dumbrava minunată",
+    "author": [
+      "Mihail Sadoveanu"
+    ],
+    "originalYear": 1922,
+    "editionYear": 1953,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-157.webp"
+  },
+  {
+    "id": "book-158",
+    "title": "Jurnalul lui Adam și al Evei",
+    "author": [
+      "Mark Twain"
+    ],
+    "originalYear": 1893,
+    "editionYear": 1983,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-158.webp"
+  },
+  {
+    "id": "book-159",
+    "title": "Dante",
+    "author": [
+      "Alexandru Balaci"
+    ],
+    "originalYear": 1966,
+    "editionYear": 1966,
+    "category": [
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-159.webp"
+  },
+  {
+    "id": "book-160",
+    "title": "Mic dicționar filozofic",
+    "author": [
+      "Colectiv de autori"
+    ],
+    "originalYear": 1969,
+    "editionYear": 1973,
+    "category": [
+      "Filosofie",
+      "Dicționar"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-160.webp"
+  },
+  {
+    "id": "book-161",
+    "title": "Goana după aur",
+    "author": [
+      "Colectiv de autori"
+    ],
+    "originalYear": 1849,
+    "editionYear": 1977,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-161.webp"
+  },
+  {
+    "id": "book-162",
+    "title": "Strada labirint II",
+    "author": [
+      "Sergiu Than"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1977,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-162.webp"
+  },
+  {
+    "id": "book-163",
+    "title": "Combaterea coroziunii autovehiculelor",
+    "author": [
+      "M. Mihalcu"
+    ],
+    "originalYear": 1980,
+    "editionYear": 1980,
+    "category": [
+      "Dicționar"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-163.webp"
+  },
+  {
+    "id": "book-164",
+    "title": "America ogarului cenușiu",
+    "author": [
+      "Romulus Rusan"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1979,
+    "category": [
+      "Geografie",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-164.webp"
+  },
+  {
+    "id": "book-165",
+    "title": "Codul poștal al municipiului București",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 1976,
+    "editionYear": 1976,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-165.webp"
+  },
+  {
+    "id": "book-166",
+    "title": "Scrinul negru",
+    "author": [
+      "G. Călinescu"
+    ],
+    "originalYear": 1954,
+    "editionYear": 1968,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-166.webp"
+  },
+  {
+    "id": "book-167",
+    "title": "Istorii I",
+    "author": [
+      "Mircea Ciobanu"
+    ],
+    "originalYear": 1972,
+    "editionYear": 1977,
+    "category": [
+      "Beletristică",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-167.webp"
+  },
+  {
+    "id": "book-168",
+    "title": "Istorii II",
+    "author": [
+      "Mircea Ciobanu"
+    ],
+    "originalYear": 1972,
+    "editionYear": 1977,
+    "category": [
+      "Beletristică",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-168.webp"
+  },
+  {
+    "id": "book-169",
+    "title": "Viața lui Ștefan cel Mare",
+    "author": [
+      "Mihail Sadoveanu"
+    ],
+    "originalYear": 1934,
+    "editionYear": 1934,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-169.webp"
+  },
+  {
+    "id": "book-170",
+    "title": "Ultimul viking",
+    "author": [
+      "Johan Bojer"
+    ],
+    "originalYear": 1921,
+    "editionYear": 1967,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-170.webp"
+  },
+  {
+    "id": "book-171",
+    "title": "Povestiri după piesele lui Shakespeare",
+    "author": [
+      "Charles Lamb",
+      "Mary Lamb"
+    ],
+    "originalYear": 1807,
+    "editionYear": 1967,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-171.webp"
+  },
+  {
+    "id": "book-172",
+    "title": "Patul lui Procust",
+    "author": [
+      "Camil Petrescu"
+    ],
+    "originalYear": 1926,
+    "editionYear": 1978,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-172.webp"
+  },
+  {
+    "id": "book-173",
+    "title": "Excursii în împrejurimile capitalei",
+    "author": [
+      "Raul Călinescu"
+    ],
+    "originalYear": 1961,
+    "editionYear": 1962,
+    "category": [
+      "Geografie",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-173.webp"
+  },
+  {
+    "id": "book-174",
+    "title": "De la Dante la Zola - pe urmele unor procese celebre",
+    "author": [
+      "Doru Cosma"
+    ],
+    "originalYear": 1978,
+    "editionYear": 1978,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-174.webp"
+  },
+  {
+    "id": "book-175",
+    "title": "În curte la Dionis",
+    "author": [
+      "Mircea Eliade"
+    ],
+    "originalYear": 1959,
+    "editionYear": 1981,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-175.webp"
+  },
+  {
+    "id": "book-176",
+    "title": "Șapte monumente celebre ale arhitecturii antice",
+    "author": [
+      "G. Chițulescu",
+      "T. Chițulescu"
+    ],
+    "originalYear": 1960,
+    "editionYear": 1965,
+    "category": [
+      "Istorie",
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-176.webp"
+  },
+  {
+    "id": "book-177",
+    "title": "20.000 de leghe sub mări",
+    "author": [
+      "Jules Verne"
+    ],
+    "originalYear": 1869,
+    "editionYear": 1977,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-177.webp"
+  },
+  {
+    "id": "book-178",
+    "title": "Insula misterioasă I",
+    "author": [
+      "Jules Verne"
+    ],
+    "originalYear": 1874,
+    "editionYear": 1979,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-178.webp"
+  },
+  {
+    "id": "book-179",
+    "title": "Sfinxul ghețarilor",
+    "author": [
+      "Jules Verne"
+    ],
+    "originalYear": 1895,
+    "editionYear": 1958,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-179.webp"
+  },
+  {
+    "id": "book-180",
+    "title": "Dicționar de literatura română contemporană",
+    "author": [
+      "Marian Popa"
+    ],
+    "originalYear": 1971,
+    "editionYear": 1977,
+    "category": [
+      "Dicționar"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-180.webp"
+  },
+  {
+    "id": "book-181",
+    "title": "Dicționarul sănătății",
+    "author": [
+      "Eugen A. Pora"
+    ],
+    "originalYear": 1978,
+    "editionYear": 1978,
+    "category": [
+      "Dicționar"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-181.webp"
+  },
+  {
+    "id": "book-182",
+    "title": "Mic atlas geografic",
+    "author": [
+      "A. Bârsan"
+    ],
+    "originalYear": 1962,
+    "editionYear": 1978,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-182.webp"
+  },
+  {
+    "id": "book-183",
+    "title": "Laureații Premiului Nobel pentru literatură",
+    "author": [
+      "Colectiv de autori"
+    ],
+    "originalYear": 1983,
+    "editionYear": 1983,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-183.webp"
+  },
+  {
+    "id": "book-184",
+    "title": "Măreția frigului",
+    "author": [
+      "Nichita Stănescu"
+    ],
+    "originalYear": 1972,
+    "editionYear": 1972,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-184.webp"
+  },
+  {
+    "id": "book-185",
+    "title": "Piatra Craiului",
+    "author": [
+      "Anton Mitroiu"
+    ],
+    "originalYear": 1958,
+    "editionYear": 1958,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-185.webp"
+  },
+  {
+    "id": "book-186",
+    "title": "Hronicul măscăriciului Vălătuc",
+    "author": [
+      "Păstorel Teodoreanu"
+    ],
+    "originalYear": 1928,
+    "editionYear": 1972,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-186.webp"
+  },
+  {
+    "id": "book-187",
+    "title": "Marele singuratic",
+    "author": [
+      "Marin Preda"
+    ],
+    "originalYear": 1972,
+    "editionYear": 1978,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-187.webp"
+  },
+  {
+    "id": "book-188",
+    "title": "La răscruce de vânturi",
+    "author": [
+      "Emily Brontë"
+    ],
+    "originalYear": 1845,
+    "editionYear": 1967,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-188.webp"
+  },
+  {
+    "id": "book-189",
+    "title": "Prezentarea haiducilor. Domnița din Snagov",
+    "author": [
+      "Panait Istrati"
+    ],
+    "originalYear": 1925,
+    "editionYear": 1969,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-189.webp"
+  },
+  {
+    "id": "book-190",
+    "title": "Alexandra și Infernul",
+    "author": [
+      "Laurențiu Fulga"
+    ],
+    "originalYear": 1966,
+    "editionYear": 1976,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-190.webp"
+  },
+  {
+    "id": "book-191",
+    "title": "Intrusul",
+    "author": [
+      "Marin Preda"
+    ],
+    "originalYear": 1967,
+    "editionYear": 1970,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-191.webp"
+  },
+  {
+    "id": "book-192",
+    "title": "Jocul cu moartea",
+    "author": [
+      "Zaharia Stancu"
+    ],
+    "originalYear": 1962,
+    "editionYear": 1968,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-192.webp"
+  },
+  {
+    "id": "book-193",
+    "title": "Literatura populară I",
+    "author": [
+      "Mihai Eminescu"
+    ],
+    "originalYear": 1869,
+    "editionYear": 1979,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-193.webp"
+  },
+  {
+    "id": "book-194",
+    "title": "Literatura populară II",
+    "author": [
+      "Mihai Eminescu"
+    ],
+    "originalYear": 1869,
+    "editionYear": 1979,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-194.webp"
+  },
+  {
+    "id": "book-195",
+    "title": "Elixirele diavolului",
+    "author": [
+      "E. T. A. Hoffmann"
+    ],
+    "originalYear": 1815,
+    "editionYear": 1970,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-195.webp"
+  },
+  {
+    "id": "book-196",
+    "title": "Secolul 20 (1977)",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 1961,
+    "editionYear": 1977,
+    "category": [
+      "Istorie",
+      "Revistă"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-196.webp"
+  },
+  {
+    "id": "book-197",
+    "title": "Secolul 20 (1965)",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 1961,
+    "editionYear": 1965,
+    "category": [
+      "Istorie",
+      "Revistă"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-197.webp"
+  },
+  {
+    "id": "book-198",
+    "title": "Secolul 20 (1972)",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 1961,
+    "editionYear": 1972,
+    "category": [
+      "Istorie",
+      "Revistă"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-198.webp"
+  },
+  {
+    "id": "book-199",
+    "title": "Romulus cel Mare",
+    "author": [
+      "Fr. Dürrenmatt"
+    ],
+    "originalYear": 1949,
+    "editionYear": 1965,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-199.webp"
+  },
+  {
+    "id": "book-200",
+    "title": "Antihrist",
+    "author": [
+      "Emilian Stanev"
+    ],
+    "originalYear": 1970,
+    "editionYear": 1975,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/2/book-200.webp"
+  },
+  {
+    "id": "book-201",
+    "title": "Moby Dick I",
+    "author": [
+      "Herman Melville"
+    ],
+    "originalYear": 1850,
+    "editionYear": 1973,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-201.webp"
+  },
+  {
+    "id": "book-202",
+    "title": "Moby Dick II",
+    "author": [
+      "Herman Melville"
+    ],
+    "originalYear": 1850,
+    "editionYear": 1973,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-202.webp"
+  },
+  {
+    "id": "book-203",
+    "title": "Poezia română contemporană",
+    "author": [
+      "Eugen Simion"
+    ],
+    "originalYear": 1964,
+    "editionYear": 1964,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-203.webp"
+  },
+  {
+    "id": "book-204",
+    "title": "După noi, potopul I",
+    "author": [
+      "Ion Lăncrănjan"
+    ],
+    "originalYear": 1967,
+    "editionYear": 1971,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-204.webp"
+  },
+  {
+    "id": "book-205",
+    "title": "După noi, potopul II",
+    "author": [
+      "Ion Lăncrănjan"
+    ],
+    "originalYear": 1967,
+    "editionYear": 1971,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-205.webp"
+  },
+  {
+    "id": "book-206",
+    "title": "Omul de aur I",
+    "author": [
+      "Jókai Mór"
+    ],
+    "originalYear": 1870,
+    "editionYear": 1972,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-206.webp"
+  },
+  {
+    "id": "book-207",
+    "title": "Omul de aur II",
+    "author": [
+      "Jókai Mór"
+    ],
+    "originalYear": 1870,
+    "editionYear": 1972,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-207.webp"
+  },
+  {
+    "id": "book-208",
+    "title": "Mitrea Cocor",
+    "author": [
+      "Mihail Sadoveanu"
+    ],
+    "originalYear": 1949,
+    "editionYear": 1951,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-208.webp"
+  },
+  {
+    "id": "book-209",
+    "title": "Adam și Eva",
+    "author": [
+      "Liviu Rebreanu"
+    ],
+    "originalYear": 1925,
+    "editionYear": 1970,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-209.webp"
+  },
+  {
+    "id": "book-210",
+    "title": "Craii de Curtea-Veche",
+    "author": [
+      "Mateiu I. Caragiale"
+    ],
+    "originalYear": 1929,
+    "editionYear": 1965,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-210.webp"
+  },
+  {
+    "id": "book-211",
+    "title": "Universul alb",
+    "author": [
+      "Mihai Iancu"
+    ],
+    "originalYear": 1978,
+    "editionYear": 1978,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-211.webp"
+  },
+  {
+    "id": "book-212",
+    "title": "Delirul",
+    "author": [
+      "Marin Preda"
+    ],
+    "originalYear": 1975,
+    "editionYear": 1975,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-212.webp"
+  },
+  {
+    "id": "book-213",
+    "title": "Calea Victoriei - Dumineca Orbului",
+    "author": [
+      "Cezar Petrescu"
+    ],
+    "originalYear": 1929,
+    "editionYear": 1965,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-213.webp"
+  },
+  {
+    "id": "book-214",
+    "title": "Insula lui Robinson",
+    "author": [
+      "Arturo Uslar Pietri"
+    ],
+    "originalYear": 1981,
+    "editionYear": 1990,
+    "category": [
+      "Biografie",
+      "Istorie",
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-214.webp"
+  },
+  {
+    "id": "book-215",
+    "title": "Întuneric și lumină în lumea dreptății",
+    "author": [
+      "I. Al. Brătescu-Voinești"
+    ],
+    "originalYear": 1906,
+    "editionYear": 1957,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-215.webp"
+  },
+  {
+    "id": "book-216",
+    "title": "Mare farsor, mari gogomani",
+    "author": [
+      "Alexandru Hanța",
+      "I. L. Caragiale"
+    ],
+    "originalYear": 1906,
+    "editionYear": 1962,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-216.webp"
+  },
+  {
+    "id": "book-217",
+    "title": "Secolul 20 (1976)",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 1961,
+    "editionYear": 1976,
+    "category": [
+      "Istorie",
+      "Revistă"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-217.webp"
+  },
+  {
+    "id": "book-218",
+    "title": "Diavolul șchiop",
+    "author": [
+      "Alain-René Lesage"
+    ],
+    "originalYear": 1707,
+    "editionYear": 1966,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-218.webp"
+  },
+  {
+    "id": "book-219",
+    "title": "Memoriile unui scamator",
+    "author": [
+      "Iosefini"
+    ],
+    "originalYear": 1980,
+    "editionYear": 1980,
+    "category": [
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-219.webp"
+  },
+  {
+    "id": "book-220",
+    "title": "Bucuria vieții",
+    "author": [
+      "Irving Stone"
+    ],
+    "originalYear": 1934,
+    "editionYear": 1966,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-220.webp"
+  },
+  {
+    "id": "book-221",
+    "title": "Iulius Caesar",
+    "author": [
+      "Rex Warner"
+    ],
+    "originalYear": 1958,
+    "editionYear": 1972,
+    "category": [
+      "Biografie",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-221.webp"
+  },
+  {
+    "id": "book-222",
+    "title": "Trustul",
+    "author": [
+      "Ion Călugăru"
+    ],
+    "originalYear": 1936,
+    "editionYear": 1956,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-222.webp"
+  },
+  {
+    "id": "book-223",
+    "title": "Sala de așteptare",
+    "author": [
+      "Bedros Horasangian"
+    ],
+    "originalYear": 1987,
+    "editionYear": 1987,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-223.webp"
+  },
+  {
+    "id": "book-224",
+    "title": "Memorii",
+    "author": [
+      "Colectiv de autori"
+    ],
+    "originalYear": 1956,
+    "editionYear": 1978,
+    "category": [
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-224.webp"
+  },
+  {
+    "id": "book-225",
+    "title": "Judecătorul și călăul",
+    "author": [
+      "Friedrich Dürrenmatt"
+    ],
+    "originalYear": 1950,
+    "editionYear": 1968,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-225.webp"
+  },
+  {
+    "id": "book-226",
+    "title": "A treia noapte fără lună",
+    "author": [
+      "Nicolae Mărgeanu"
+    ],
+    "originalYear": 1955,
+    "editionYear": 1955,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-226.webp"
+  },
+  {
+    "id": "book-227",
+    "title": "Puntea Sfîntul Ludovic",
+    "author": [
+      "Thornton Wilder"
+    ],
+    "originalYear": 1927,
+    "editionYear": 1968,
+    "category": [
+      "Filosofie",
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-227.webp"
+  },
+  {
+    "id": "book-228",
+    "title": "Satire și fabule",
+    "author": [
+      "Gr. Alexandrescu"
+    ],
+    "originalYear": 1832,
+    "editionYear": 1976,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-228.webp"
+  },
+  {
+    "id": "book-229",
+    "title": "Golanii",
+    "author": [
+      "Liviu Rebreanu"
+    ],
+    "originalYear": 1916,
+    "editionYear": 1965,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-229.webp"
+  },
+  {
+    "id": "book-230",
+    "title": "Pe direcția Balcani",
+    "author": [
+      "Alexei Antosiak"
+    ],
+    "originalYear": 1944,
+    "editionYear": 1980,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-230.webp"
+  },
+  {
+    "id": "book-231",
+    "title": "Un punct pe hartă",
+    "author": [
+      "Sait Faik Abasıyanık"
+    ],
+    "originalYear": 1930,
+    "editionYear": 1966,
+    "category": [
+      "Istorie",
+      "Geografie",
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-231.webp"
+  },
+  {
+    "id": "book-232",
+    "title": "Poveste de Crăciun",
+    "author": [
+      "Charles Dickens"
+    ],
+    "originalYear": 1843,
+    "editionYear": 1990,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-232.webp"
+  },
+  {
+    "id": "book-233",
+    "title": "Țara de piatră",
+    "author": [
+      "Geo Bogza"
+    ],
+    "originalYear": 1935,
+    "editionYear": 1956,
+    "category": [
+      "Istorie",
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-233.webp"
+  },
+  {
+    "id": "book-234",
+    "title": "Comisarul Maigret a fost prădat",
+    "author": [
+      "Georges Simenon"
+    ],
+    "originalYear": 1966,
+    "editionYear": 1969,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-234.webp"
+  },
+  {
+    "id": "book-235",
+    "title": "Monștrii apelor",
+    "author": [
+      "Mihai Tican Rumano"
+    ],
+    "originalYear": 1928,
+    "editionYear": 1958,
+    "category": [
+      "Geografie",
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-235.webp"
+  },
+  {
+    "id": "book-236",
+    "title": "Lacurile Terrei",
+    "author": [
+      "Petre Gâștescu"
+    ],
+    "originalYear": 1979,
+    "editionYear": 1979,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-236.webp"
+  },
+  {
+    "id": "book-237",
+    "title": "Foc în hanul cu tei",
+    "author": [
+      "I. Peltz"
+    ],
+    "originalYear": 1930,
+    "editionYear": 1962,
+    "category": [
+      "Istorie",
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-237.webp"
+  },
+  {
+    "id": "book-238",
+    "title": "Reporter pe Mississippi",
+    "author": [
+      "Neagu Udroiu"
+    ],
+    "originalYear": 1973,
+    "editionYear": 1976,
+    "category": [
+      "Geografie",
+      "Beletristică",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-238.webp"
+  },
+  {
+    "id": "book-239",
+    "title": "Frumoșii nebuni ai marilor orașe",
+    "author": [
+      "Fănuș Neagu"
+    ],
+    "originalYear": 1970,
+    "editionYear": 1976,
+    "category": [
+      "Istorie",
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-239.webp"
+  },
+  {
+    "id": "book-240",
+    "title": "Răzbunarea lui Pirgoteles",
+    "author": [
+      "Balogh József"
+    ],
+    "originalYear": 1986,
+    "editionYear": 1986,
+    "category": [
+      "Beletristică",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-240.webp"
+  },
+  {
+    "id": "book-241",
+    "title": "Nuvele",
+    "author": [
+      "Nicolae Gane"
+    ],
+    "originalYear": 1867,
+    "editionYear": 1959,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-241.webp"
+  },
+  {
+    "id": "book-242",
+    "title": "America - transmisie directă",
+    "author": [
+      "Andrei Bacalu"
+    ],
+    "originalYear": 1974,
+    "editionYear": 1974,
+    "category": [
+      "Geografie",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-242.webp"
+  },
+  {
+    "id": "book-243",
+    "title": "Cicatricea",
+    "author": [
+      "Dragoș Vicol"
+    ],
+    "originalYear": 1941,
+    "editionYear": 1963,
+    "category": [
+      "Beletristică",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-243.webp"
+  },
+  {
+    "id": "book-244",
+    "title": "Filosofie și poezie",
+    "author": [
+      "Tudor Vianu"
+    ],
+    "originalYear": 1937,
+    "editionYear": 1971,
+    "category": [
+      "Filosofie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-244.webp"
+  },
+  {
+    "id": "book-245",
+    "title": "Aventurile lui Tom Sawyer",
+    "author": [
+      "Mark Twain"
+    ],
+    "originalYear": 1872,
+    "editionYear": 1959,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-245.webp"
+  },
+  {
+    "id": "book-246",
+    "title": "Miradoniz - copilăria și adolescența lui Eminescu",
+    "author": [
+      "Gheorghe Tomozei"
+    ],
+    "originalYear": 1970,
+    "editionYear": 1977,
+    "category": [
+      "Biografie",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-246.webp"
+  },
+  {
+    "id": "book-247",
+    "title": "Istoria lui Ștefan cel Mare",
+    "author": [
+      "Nicolae Iorga"
+    ],
+    "originalYear": 1904,
+    "editionYear": 1966,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-247.webp"
+  },
+  {
+    "id": "book-248",
+    "title": "Fîntîna",
+    "author": [
+      "Fănuș Neagu"
+    ],
+    "originalYear": 1954,
+    "editionYear": 1974,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-248.webp"
+  },
+  {
+    "id": "book-249",
+    "title": "Scrieri alese",
+    "author": [
+      "Edgar Allan Poe"
+    ],
+    "originalYear": 1827,
+    "editionYear": 1968,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-249.webp"
+  },
+  {
+    "id": "book-250",
+    "title": "Fenix inflamabil",
+    "author": [
+      "Ioan Grigorescu"
+    ],
+    "originalYear": 1970,
+    "editionYear": 1970,
+    "category": [
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-250.webp"
+  },
+  {
+    "id": "book-251",
+    "title": "Prințul",
+    "author": [
+      "Tudor Teodorescu-Braniște"
+    ],
+    "originalYear": 1941,
+    "editionYear": 1965,
+    "category": [
+      "Beletristică",
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-251.webp"
+  },
+  {
+    "id": "book-252",
+    "title": "Scriitori români din secolul XX",
+    "author": [
+      "Tudor Vianu"
+    ],
+    "originalYear": 1930,
+    "editionYear": 1979,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-252.webp"
+  },
+  {
+    "id": "book-253",
+    "title": "Visul în vuietul vremii",
+    "author": [
+      "Al. Philippide"
+    ],
+    "originalYear": 1922,
+    "editionYear": 1969,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-253.webp"
+  },
+  {
+    "id": "book-254",
+    "title": "Povestiri umoristice",
+    "author": [
+      "Arkadi Buhov"
+    ],
+    "originalYear": 1910,
+    "editionYear": 1959,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-254.webp"
+  },
+  {
+    "id": "book-255",
+    "title": "De la Cellini la Malraux II",
+    "author": [
+      "Autor necunoscut"
+    ],
+    "originalYear": 1972,
+    "editionYear": 1972,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-255.webp"
+  },
+  {
+    "id": "book-256",
+    "title": "Cel mai iubit dintre pământeni I",
+    "author": [
+      "Marin Preda"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1984,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-256.webp"
+  },
+  {
+    "id": "book-257",
+    "title": "Cel mai iubit dintre pământeni II",
+    "author": [
+      "Marin Preda"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1984,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-257.webp"
+  },
+  {
+    "id": "book-258",
+    "title": "Cel mai iubit dintre pământeni III",
+    "author": [
+      "Marin Preda"
+    ],
+    "originalYear": 1977,
+    "editionYear": 1984,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-258.webp"
+  },
+  {
+    "id": "book-259",
+    "title": "Principele",
+    "author": [
+      "Eugen Barbu"
+    ],
+    "originalYear": 1969,
+    "editionYear": 1971,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-259.webp"
+  },
+  {
+    "id": "book-260",
+    "title": "Jocuri și probleme distractive",
+    "author": [
+      "Petre Constantinescu"
+    ],
+    "originalYear": 1971,
+    "editionYear": 1971,
+    "category": [
+      "Știință"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-260.webp"
+  },
+  {
+    "id": "book-261",
+    "title": "Bunicul și păcatele lumii",
+    "author": [
+      "Petre Sălcudeanu"
+    ],
+    "originalYear": 1971,
+    "editionYear": 1971,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-261.webp"
+  },
+  {
+    "id": "book-262",
+    "title": "Castelul din Carpați",
+    "author": [
+      "Jules Verne"
+    ],
+    "originalYear": 1889,
+    "editionYear": 1967,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-262.webp"
+  },
+  {
+    "id": "book-263",
+    "title": "Stiletul",
+    "author": [
+      "Anatoli Rîbakov"
+    ],
+    "originalYear": 1948,
+    "editionYear": 1955,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-263.webp"
+  },
+  {
+    "id": "book-264",
+    "title": "Cruciadă în Europa",
+    "author": [
+      "Dwight D. Eisenhower"
+    ],
+    "originalYear": 1948,
+    "editionYear": 1975,
+    "category": [
+      "Istorie",
+      "Biografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-264.webp"
+  },
+  {
+    "id": "book-265",
+    "title": "Taurul mării II",
+    "author": [
+      "Ion Marin Sadoveanu"
+    ],
+    "originalYear": 1962,
+    "editionYear": 1965,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-265.webp"
+  },
+  {
+    "id": "book-266",
+    "title": "Ciberiada",
+    "author": [
+      "Stanisław Lem"
+    ],
+    "originalYear": 1965,
+    "editionYear": 1976,
+    "category": [
+      "Filosofie",
+      "Știință"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-266.webp"
+  },
+  {
+    "id": "book-267",
+    "title": "Animale bolnave",
+    "author": [
+      "Nicolae Breban"
+    ],
+    "originalYear": 1966,
+    "editionYear": 1968,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-267.webp"
+  },
+  {
+    "id": "book-268",
+    "title": "București",
+    "author": [
+      "Dan Berindei"
+    ],
+    "originalYear": 1962,
+    "editionYear": 1962,
+    "category": [
+      "Istorie",
+      "Geografie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-268.webp"
+  },
+  {
+    "id": "book-269",
+    "title": "Într-un bazar sentimental",
+    "author": [
+      "Ion Minulescu"
+    ],
+    "originalYear": 1913,
+    "editionYear": 1977,
+    "category": [
+      "Poezie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-269.webp"
+  },
+  {
+    "id": "book-270",
+    "title": "Cordovanii I",
+    "author": [
+      "Ion Lăncrănjan"
+    ],
+    "originalYear": 1954,
+    "editionYear": 1963,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-270.webp"
+  },
+  {
+    "id": "book-271",
+    "title": "Cordovanii II",
+    "author": [
+      "Ion Lăncrănjan"
+    ],
+    "originalYear": 1954,
+    "editionYear": 1963,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-271.webp"
+  },
+  {
+    "id": "book-272",
+    "title": "Cordovanii III",
+    "author": [
+      "Ion Lăncrănjan"
+    ],
+    "originalYear": 1954,
+    "editionYear": 1963,
+    "category": [
+      "Beletristică"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-272.webp"
+  },
+  {
+    "id": "book-273",
+    "title": "Pagini alese I",
+    "author": [
+      "Nicolae Iorga"
+    ],
+    "originalYear": 1890,
+    "editionYear": 1965,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-273.webp"
+  },
+  {
+    "id": "book-274",
+    "title": "Pagini alese II",
+    "author": [
+      "Nicolae Iorga"
+    ],
+    "originalYear": 1890,
+    "editionYear": 1965,
+    "category": [
+      "Istorie"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-274.webp"
+  },
+  {
+    "id": "book-275",
+    "title": "Dicționar enciclopedic român A-C",
+    "author": [
+      "Academia Republicii Socialiste România"
+    ],
+    "originalYear": 1960,
+    "editionYear": 1966,
+    "category": [
+      "Dicționar"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-275.webp"
+  },
+  {
+    "id": "book-276",
+    "title": "Dicționar enciclopedic român D-J",
+    "author": [
+      "Academia Republicii Socialiste România"
+    ],
+    "originalYear": 1960,
+    "editionYear": 1966,
+    "category": [
+      "Dicționar"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-276.webp"
+  },
+  {
+    "id": "book-277",
+    "title": "Dicționar enciclopedic român K-P",
+    "author": [
+      "Academia Republicii Socialiste România"
+    ],
+    "originalYear": 1960,
+    "editionYear": 1966,
+    "category": [
+      "Dicționar"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-277.webp"
+  },
+  {
+    "id": "book-278",
+    "title": "Dicționar enciclopedic român Q-Z",
+    "author": [
+      "Academia Republicii Socialiste România"
+    ],
+    "originalYear": 1960,
+    "editionYear": 1966,
+    "category": [
+      "Dicționar"
+    ],
+    "cover": "https://pub-36b7d82a5dc54921bbac9ee6be41789e.r2.dev/covers/3/book-278.webp"
   }
 ]
