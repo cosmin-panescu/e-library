@@ -1,5 +1,4 @@
 import "./globals.css";
-import "@/styles/main.scss";
 import { DeckProvider } from "@/context/DeckContext";
 import ReadingDeck from "@/components/ReadingDeck";
 
